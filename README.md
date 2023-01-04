@@ -14,4 +14,4 @@
 <p><sup><sub>Recuerda siempre leer las letras chiquitas jeje</sub></sup></h5>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zlcube&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zlcube&theme=dracula)]
