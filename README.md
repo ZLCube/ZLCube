@@ -2,9 +2,9 @@
 <h1 align="center">Hola! 👋, Soy ZLCube</h1>
 <h3 align="center">Entusiasta de ciberseguridad y creador de contenido</h3>
 
+![](https://github-profile-trophy.vercel.app/?username=zlcube&theme=dracula)
 
-<h2 align="center"> ![](https://github-profile-trophy.vercel.app/?username=zlcube&theme=dracula)</h2>
-
+<sup><sub>Recuerda siempre leer las letras chiquitas</sub></sup>
 
 <h3 align="left">Mis redes sociales:</h3>
 <p align="left">
