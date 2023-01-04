@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**IM ZLCube/ZLCube** 
+**IM ZLCube** 
 
 - 🔭 Software developer and Content Creator in progress...
 - 🌱 I’m currently learning Ciber security/Ethical hacking
