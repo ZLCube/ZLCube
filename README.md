@@ -3,7 +3,7 @@
 <h2 align="center">Soy Cube, y te doy la bienvenida a mi github</h2>
 <h3 align="center">Un pequeñ entusiasta de ciberseguridad y creador de contenido</h3>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=zlcube&theme=dracula)
+
 
 <sup><sub>Recuerda siempre leer las letras chiquitas jeje</sub></sup>
 
@@ -18,3 +18,4 @@
 Aquí encontrarás las herramientas y entornos que desarrolle, procuraré ser conciso y hacer todo lo más fácil e intuitivo para que su uso sea eficiente y efevecente como las burbujitas si señor!
 
 Si en algún punto tienes dudas, comentarios o sugerencias no dudes en hacermelo saber en cualquiera de mis redes sociales! 
+![trophy](https://github-profile-trophy.vercel.app/?username=zlcube&theme=dracula)
