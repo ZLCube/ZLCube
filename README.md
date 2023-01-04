@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, Soy ZLCube</h1>
 <h3 align="center">Entusiasta de ciberseguridad y creador de contenido</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zlcube&label=Profile%20views&color=0e75b6&style=flat" alt="zlcube" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zlcube" alt="zlcube" /></a> </p>
 
