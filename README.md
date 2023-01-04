@@ -1,7 +1,7 @@
 
 <h1 align="center">✨Hola✨</h1>
 <h2 align="center">Soy Cube, y te doy la bienvenida a mi github</h2>
-<h3 align="center">Un pequeñ entusiasta de ciberseguridad y creador de contenido</h3>
+<h3 align="center">Un pequeño entusiasta de ciberseguridad y creador de contenido</h3>
 
 <h3 align="center">Mis redes sociales:</h3>
 <p align="center">
