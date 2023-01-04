@@ -15,4 +15,4 @@
 
 
 
-![center]("https://github-profile-trophy.vercel.app/?username=zlcube&theme=dracula")
+![trophy]("https://github-profile-trophy.vercel.app/?username=zlcube&theme=dracula")
