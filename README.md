@@ -3,7 +3,7 @@
 <h3 align="center">Entusiasta de ciberseguridad y creador de contenido</h3>
 
 
-<h2 align="center"> https://github-profile-trophy.vercel.app/?username=zlcube&theme=dracula)</h2>
+<h2 align="center"> ![](https://github-profile-trophy.vercel.app/?username=zlcube&theme=dracula)</h2>
 
 
 <h3 align="left">Mis redes sociales:</h3>
