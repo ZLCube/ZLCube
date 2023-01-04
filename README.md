@@ -3,7 +3,9 @@
 <div id="header" align="center">
   <img src="https://yt3.ggpht.com/iYhJgIpCPqMTWYttN7Ma2RTX0kwlZVEyjK8nHUeJc5UqFdIwpzGyAfXWO4zp51EnYMeUAwIjGg=s88-c-k-c0x00ffffff-no-rj" alt="Avatar" width="100"/>
 </div>
-
+img {
+  border-radius: 50%;
+}
 **IM ZLCube** 
 
 - 🔭 Software developer and Content Creator in progress...
