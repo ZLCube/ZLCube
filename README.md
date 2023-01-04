@@ -3,12 +3,10 @@
 <h3 align="center">Entusiasta de ciberseguridad y creador de contenido</h3>
 
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula"><img src="https://github-profile-trophy.vercel.app/?username=zlcube" alt="zlcube" /></a> </p>
+![](https://github-profile-trophy.vercel.app/?username=zlcube&theme=dracula)
 
 
-
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Mis redes sociales:</h3>
 <p align="left">
 <a href="https://twitter.com/zlcube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zlcube" height="30" width="40" /></a>
 <a href="https://instagram.com/zlcube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zlcube" height="30" width="40" /></a>
