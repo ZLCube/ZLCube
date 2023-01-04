@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... You can reach me out at any of my social media as ZLCube
 - 😄 Pronouns: ... ZLCube He
 
-![](https://github-profile-trophy.vercel.app/?zlcube=ryo-ma&theme=dracula/)
+![]([](https://github-profile-trophy.vercel.app/?username=zlcube&theme=dracula))
