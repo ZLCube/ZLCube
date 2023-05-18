@@ -23,7 +23,7 @@
 
 A Fascinated QFB who loves tech and chem.
 
-<img src= https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Flux-ult&psig=AOvVaw1K81U2zF9x7bPY2r13jHvU&ust=1684468206703000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCti5v7_f4CFQAAAAAdAAAAABAE>
+![](https://media4.giphy.com/media/lnPSlpeYJgowucmT4r/giphy.gif?cid=ecf05e47xcnkkxu86jnrk02au37dh33umik2zq2wb80isg12&ep=v1_gifs_search&rid=giphy.gif)
 ## About me :
 I am a QFB student, who enjoys technology, publishing content of public interest, learning every day, and living with the community.🧠
 
