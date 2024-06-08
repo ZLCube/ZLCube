@@ -20,7 +20,5 @@
 ![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=zlcube&show_icons=true)
 
 
-## the end of an era 
-
 ```math
 \ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/ZLCube/AutoBspwm/blob/main/Wallpaper/wall-05.png?raw=true');]{x0000}$}
