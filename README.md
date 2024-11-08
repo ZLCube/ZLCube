@@ -19,6 +19,6 @@
 
 ![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=zlcube&show_icons=true)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=LuisAguilarPena&theme=dracula&no-frame=true&align=center)](https://github.com/ryo-ma/github-profile-trophy)
 
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/ZLCube/AutoBspwm/blob/main/Wallpaper/wall-05.png?raw=true');]{x0000}$}
+![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=LuisAguilarPena&show_icons=true)
