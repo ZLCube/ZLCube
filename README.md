@@ -14,18 +14,7 @@
 <p><sup><sub>Recuerda siempre leer las letras chiquitas jeje</sub></sup></h5>
 
 
-## Skills
-
-- **Programming Languages:** I love JavaScript, and Python. I also have some experience giving maintenance to Java applications.
   
-- **Frameworks/Libraries:** I have worked with React, Node.js, Django, Angular, Vue, Express, etc...
-  
-- **Tools/Technologies:** I have experienced with, Git, Docker, AWS, etc...
-
-  [![My Skills](https://skillicons.dev/icons?i=js,python,java&theme=dark)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=react,nodejs,django,angular,vue,express&theme=dark)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=git,docker,aws&theme=dark)](https://skillicons.dev)
-
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=zlcube&theme=dracula&no-frame=true&align=center)](https://github.com/ryo-ma/github-profile-trophy)
 
