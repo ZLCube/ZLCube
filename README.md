@@ -21,6 +21,7 @@
 - **Frameworks/Libraries:** I have worked with React, Node.js, Django, Angular, Vue, Express, etc...
   [![My Skills](https://skillicons.dev/icons?i=react,nodejs,django,angular,vue,express&theme=dark)](https://skillicons.dev)
 - **Tools/Technologies:** I have experienced with, Git, Docker, AWS, etc...
+  
   [![My Skills](https://skillicons.dev/icons?i=git,docker,aws&theme=dark)](https://skillicons.dev)
 
   
