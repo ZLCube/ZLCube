@@ -17,11 +17,13 @@
 ## Skills
 
 - **Programming Languages:** I love JavaScript, and Python. I also have some experience giving maintenance to Java applications.
-  [![My Skills](https://skillicons.dev/icons?i=js,python,java&theme=dark)](https://skillicons.dev)
-- **Frameworks/Libraries:** I have worked with React, Node.js, Django, Angular, Vue, Express, etc...
-  [![My Skills](https://skillicons.dev/icons?i=react,nodejs,django,angular,vue,express&theme=dark)](https://skillicons.dev)
-- **Tools/Technologies:** I have experienced with, Git, Docker, AWS, etc...
   
+- **Frameworks/Libraries:** I have worked with React, Node.js, Django, Angular, Vue, Express, etc...
+  
+- **Tools/Technologies:** I have experienced with, Git, Docker, AWS, etc...
+
+  [![My Skills](https://skillicons.dev/icons?i=js,python,java&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,nodejs,django,angular,vue,express&theme=dark)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=git,docker,aws&theme=dark)](https://skillicons.dev)
 
   
