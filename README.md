@@ -19,6 +19,4 @@
 
 ![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=zlcube&show_icons=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LuisAguilarPena&theme=dracula&no-frame=true&align=center)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=LuisAguilarPena&show_icons=true)
