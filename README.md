@@ -19,6 +19,8 @@
   <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="Mi badge" width="150"/>
 </a>
 
+<img src="https://github.com/ZLCube/ZLCube/blob/main/certs/ewptx.png" width="150"/>
+
 
 ![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=zlcube&show_icons=true)
 
