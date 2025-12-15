@@ -13,11 +13,11 @@
 <h5 align="center">Aquí encontrarás las herramientas y entornos que desarrollé, procuraré ser conciso y hacer todo lo más fácil e intuitivo para que su uso sea eficiente y efevecente como las burbujitas sí señor, si en algún punto tienes dudas, comentarios o sugerencias no dudes en hacermelo saber en cualquiera de mis redes sociales! 
 <p><sup><sub>Recuerda siempre leer las letras chiquitas jeje</sub></sup></h5>
 
-<center>
+<p align="center">
   <img src="https://github.com/ZLCube/ZLCube/blob/main/certs/ewptx.png" width="150" align="center"/>
   <img src="https://github.com/ZLCube/ZLCube/blob/main/certs/ejpt-certification.svg" width="150" align="center"/>
   <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="Mi badge" width="150" align="center"/>
-</center>
+</p>
 
 <a href="https://www.credly.com/badges/4d5200e5-a9ff-46aa-950a-0a578e6a006a/public_url">
   <img src="https://github.com/ZLCube/ZLCube/blob/main/certs/ewptx.png" width="150" align="center"/>
