@@ -13,9 +13,7 @@
 <h5 align="center">Aquí encontrarás las herramientas y entornos que desarrollé, procuraré ser conciso y hacer todo lo más fácil e intuitivo para que su uso sea eficiente y efevecente como las burbujitas sí señor, si en algún punto tienes dudas, comentarios o sugerencias no dudes en hacermelo saber en cualquiera de mis redes sociales! 
 <p><sup><sub>Recuerda siempre leer las letras chiquitas jeje</sub></sup></h5>
 
-  
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=zlcube&theme=dracula&no-frame=true&align=center)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <a href="https://www.credly.com/badges/4d5200e5-a9ff-46aa-950a-0a578e6a006a/public_url">
   <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="Mi badge" width="150"/>
