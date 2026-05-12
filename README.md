@@ -1,9 +1,11 @@
 
 <h1 align="center">✨ Hola, bienvenido a mi github ✨</h1>
 <h2 align="center"></h2>
-<h3 align="center">Soy Cube, 🌩️ Sr Cloud Security Engineer 🌩️, enfocado en linux, aws, automatización y scripting.</h3>
-
-<h5 align="center">Aquí encontrarás todas las herramientas y entornos desarrollados por mi, así como algun par de forks a herramientas que me parecen útiles o interesantes. 
+<h3 align="center">
+Soy Cube, Security Engineer, enfocado en linux, aws, automatización y scripting. Tengo experiencia en ethical hacking como web pentesting, bug bounty, reversing, criptografía y un par de ramas más.
+Fui top 1 en Hack the box South Korea y top 3 en Hack the box México. 
+Aquí encontrarás todas las herramientas y entornos desarrollados por mi, así como algun par de forks a herramientas que me parecen útiles o interesantes.
+</h3>
   
 <p><sup><sub>Recuerda siempre leer las letras chiquitas jeje</sub></sup></h5>
 
