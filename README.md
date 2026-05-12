@@ -1,7 +1,7 @@
 
-<h1 align="center">✨Hola✨</h1>
-<h2 align="center">Te doy la bienvenida a mi github</h2>
-<h3 align="center">Soy Cube, un Sr Cloud Security Engineer, enfocado en automatización y scripting.</h3>
+<h1 align="center">✨ Hola, bienvenido a mi github ✨</h1>
+<h2 align="center"></h2>
+<h3 align="center">Soy Cube, 🌩️ Sr Cloud Security Engineer 🌩️, enfocado en linux, aws, automatización y scripting.</h3>
 
 <h5 align="center">Aquí encontrarás todas las herramientas y entornos desarrollados por mi, así como algun par de forks a herramientas que me parecen útiles o interesantes. 
   
