@@ -73,32 +73,14 @@ además de algunos forks a proyectos que considero útiles o interesantes.
 
 ---
 
-<div align="center">
-
-### 🌐 Socials
-
-</div>
-
-<p align="center">
-<a href="https://twitter.com/zlcube" target="blank">
-  <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
-</a>
-&nbsp;
-<a href="https://instagram.com/zlcube" target="blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-</a>
-&nbsp;
-<a href="https://www.youtube.com/@zlcube9936" target="blank">
-  <img src="https://skillicons.dev/icons?i=youtube" height="40"/>
-</a>
-&nbsp;
-<a href="https://discord.gg/cgQ6Gu5qj9" target="blank">
-  <img src="https://skillicons.dev/icons?i=discord" height="40"/>
-</a>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zlcube&label=Profile+Views&color=grey&style=flat"/>
+</p>
+
+<h3 align="center">Mis redes sociales:</h3>
+<p align="center">
+<a href="https://twitter.com/zlcube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zlcube" height="30" width="40" /></a>
+<a href="https://instagram.com/zlcube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zlcube" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@zlcube9936" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@zlcube9936" height="30" width="40" /></a>
+<a href="https://discord.gg/cgQ6Gu5qj9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cgQ6Gu5qj9" height="30" width="40" /></a>
 </p>
