@@ -79,7 +79,7 @@ además de algunos forks a proyectos que considero útiles o interesantes.
 
 <h3 align="center">Mis redes sociales:</h3>
 <p align="center">
-<a href="https://www.tiktok.com/@zlcube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="zlcube" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/@zlcube" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tiktok_icon.svg/120px-Tiktok_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20240827133148" alt="zlcube" height="30" width="40" /></a>
 <a href="https://twitter.com/zlcube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zlcube" height="30" width="40" /></a>
 <a href="https://instagram.com/zlcube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zlcube" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@zlcube9936" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@zlcube9936" height="30" width="40" /></a>
