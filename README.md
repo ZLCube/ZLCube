@@ -39,19 +39,6 @@ además de algunos forks a proyectos que considero útiles o interesantes.
 
 <div align="center">
 
-### 📜 Certifications
-
-</div>
-
-<p align="center">
-  <img src="https://github.com/ZLCube/ZLCube/blob/main/certs/ewptx.png" width="100"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ZLCube/ZLCube/blob/main/certs/ejpt-certification.svg" width="100"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="100"/>
-</p>
-
----
 
 <div align="center">
 
@@ -77,6 +64,20 @@ además de algunos forks a proyectos que considero útiles o interesantes.
   <img src="https://komarev.com/ghpvc/?username=zlcube&label=Profile+Views&color=grey&style=flat"/>
 </p>
 
+
+### 📜 Certifications
+
+</div>
+
+<p align="center">
+  <img src="https://github.com/ZLCube/ZLCube/blob/main/certs/ewptx.png" width="100"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ZLCube/ZLCube/blob/main/certs/ejpt-certification.svg" width="100"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="100"/>
+</p>
+
+---
 <h3 align="center">Mis redes sociales:</h3>
 <p align="center">
 <a href="https://www.tiktok.com/@zlcube" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tiktok_icon.svg/120px-Tiktok_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20240827133148" alt="zlcube" height="30" width="40" /></a>
