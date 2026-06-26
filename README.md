@@ -86,3 +86,10 @@ además de algunos forks a proyectos que considero útiles o interesantes.
 <a href="https://www.youtube.com/@zlcube9936" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@zlcube9936" height="30" width="40" /></a>
 <a href="https://discord.gg/cgQ6Gu5qj9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cgQ6Gu5qj9" height="30" width="40" /></a>
 </p>
+
+
+<p align="center">
+  <a href="https://app.hackthebox.com/public/users/1132645">
+    <img src="https://zlcube.github.io/htb/1132645.svg" width="70%">
+  </a>
+</p>
