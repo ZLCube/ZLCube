@@ -64,6 +64,11 @@ además de algunos forks a proyectos que considero útiles o interesantes.
   <img src="https://komarev.com/ghpvc/?username=zlcube&label=Profile+Views&color=grey&style=flat"/>
 </p>
 
+<p align="center">
+  <a href="https://app.hackthebox.com/public/users/1132645">
+    <img src="https://zlcube.github.io/htb/1132645.svg" width="70%">
+  </a>
+</p>
 
 ### 📜 Certifications
 
@@ -88,8 +93,4 @@ además de algunos forks a proyectos que considero útiles o interesantes.
 </p>
 
 
-<p align="center">
-  <a href="https://app.hackthebox.com/public/users/1132645">
-    <img src="https://zlcube.github.io/htb/1132645.svg" width="70%">
-  </a>
-</p>
+
