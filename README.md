@@ -60,15 +60,9 @@ además de algunos forks a proyectos que considero útiles o interesantes.
 
 ---
 
-<img width="70%" src="https://zlcube.github.io/htb/card.svg" alt="Hack The Box stats" />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zlcube&label=Profile+Views&color=grey&style=flat"/>
-</p>
-
 <p align="center">
   <a href="https://app.hackthebox.com/public/users/1132645">
-    <img src="https://zlcube.github.io/htb/1132645.svg" width="70%">
+    <img width="70%" src="https://zlcube.github.io/htb/1132645.svg" alt="Hack The Box stats" />
   </a>
 </p>
 
